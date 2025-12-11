@@ -17,3 +17,7 @@ References:
 2. [DiffuseST Code](https://github.com/I2-Multimedia-Lab/DiffuseST)
 
 3. [COCO 2017 Dataset](https://www.kaggle.com/datasets/awsaf49/coco-2017-dataset)
+
+4. [VGG19-Document](https://docs.google.com/document/d/1t_isyp5P3TsJ87uOVUW58C2dd_bJECw3lz96OpGKr4Y/edit?tab=t.0)
+
+5. [VGG](https://github.com/crowsonkb/style-transfer-pytorch/blob/master/style_transfer/style_transfer.py)
