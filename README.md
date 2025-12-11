@@ -21,3 +21,5 @@ References:
 4. [STL-10 Dataset](https://www.kaggle.com/datasets/jessicali9530/stl10)
 
 5. [VGG-19](https://github.com/crowsonkb/style-transfer-pytorch/blob/master/style_transfer/style_transfer.py)
+
+6. https://arxiv.org/abs/1409.1556
