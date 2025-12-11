@@ -12,6 +12,6 @@ Maxwell Ho:ho000179@umn.edu; worked on finding references and models, running di
 
 References: 
 
-1[DiffuseST Paper](https://arxiv.org/html/2410.15007v1). 
+1. [DiffuseST Paper](https://arxiv.org/html/2410.15007v1). 
 
-2[DiffuseST Code](https://github.com/I2-Multimedia-Lab/DiffuseST)
+2. [DiffuseST Code](https://github.com/I2-Multimedia-Lab/DiffuseST)
