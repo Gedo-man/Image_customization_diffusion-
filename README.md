@@ -17,3 +17,5 @@ References:
 2. [DiffuseST Code](https://github.com/I2-Multimedia-Lab/DiffuseST)
 
 3. [COCO 2017 Dataset](https://www.kaggle.com/datasets/awsaf49/coco-2017-dataset)
+
+4. [STL-10 Dataset](https://www.kaggle.com/datasets/jessicali9530/stl10)
