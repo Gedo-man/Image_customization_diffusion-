@@ -19,3 +19,7 @@ References:
 3. [COCO 2017 Dataset](https://www.kaggle.com/datasets/awsaf49/coco-2017-dataset)
 
 4. [STL-10 Dataset](https://www.kaggle.com/datasets/jessicali9530/stl10)
+
+5. https://arxiv.org/abs/1409.1556
+
+6. 
